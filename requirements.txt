@@ -1,0 +1,7 @@
+Flask==3.1.2
+Flask-Mail==0.9.1
+Flask-SQLAlchemy==3.0.3
+Flask-Migrate==4.0.4
+Flask-Login==0.6.3
+SQLAlchemy==2.0.24
+pytest==7.3.2
